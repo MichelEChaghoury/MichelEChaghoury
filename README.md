@@ -16,7 +16,7 @@ My passion is to learn and apply new and demanded skills
 - Typescript
 
 
-### Current Works:
+### Current Work:
 - developing Personal Projects, helping my self to apply real world ideas and solutions into apps and services 
 - learning Data Science & Machine Learning 
 
