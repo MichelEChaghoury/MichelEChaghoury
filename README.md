@@ -1,8 +1,8 @@
-(https://github.com/MichelEChaghoury/MichelEChaghoury/blob/main/banner.jpg)
+![I am a full stack developer](https://github.com/MichelEChaghoury/MichelEChaghoury/blob/main/banner.jpg)
 
 # Hi there 👋, I am Michel Chaghoury
 ## I am a full stack developer
-![I am a full stack developer]
+
 
 I am a Computer Communication Engineer from Beirut Lebanon.
 My passion is to learn and apply new and demanded skills
