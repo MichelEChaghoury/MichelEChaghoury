@@ -1,7 +1,7 @@
 ![I am a full stack developer](https://github.com/MichelEChaghoury/MichelEChaghoury/blob/main/banner.jpg)
 
 # Michel Esper Chaghoury
-## I am a full stack developer
+## Full stack developer
 
 
 I am a Computer Communication Engineer from Beirut Lebanon.
