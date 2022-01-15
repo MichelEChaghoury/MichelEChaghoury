@@ -7,7 +7,13 @@
 I am a Computer Communication Engineer from Beirut Lebanon.
 My passion is to learn and apply new and demanded skills
 
-Skills: JAVA / PYTHON / ANGULAR / REACT / SQL
+## Skills: 
+- Java
+- Python
+- React
+- Angular
+- SQL
+- Typescript
 
 - 🔭 I’m currently working on Personal Projects, helping my self to apply real world ideas and solutions into apps and services 
 - 🌱 I’m currently learning Data Science & Machine Learning 
