@@ -1,6 +1,6 @@
 ![I am a full stack developer](https://github.com/MichelEChaghoury/MichelEChaghoury/blob/main/banner.jpg)
 
-# I am Michel Chaghoury
+# Michel Chaghoury
 ## I am a full stack developer
 
 
