@@ -1,4 +1,4 @@
-![I am a full stack developer](https://github.com/MichelEChaghoury/MichelEChaghoury/blob/main/banner.jpg)
+![I am a Software Engineer](https://github.com/MichelEChaghoury/MichelEChaghoury/blob/main/banner.jpg)
 
 # Michel Chaghoury
 ## Software Developer
@@ -13,7 +13,3 @@ Passionate about learning and appling new and demanded skills
 - Angular
 - SQL
 - Typescript
-
-### Current Work:
-- developing Personal Projects, helping my self to apply real world ideas and solutions into apps and services 
-- learning Data Science & Machine Learning
