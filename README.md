@@ -8,6 +8,7 @@ Passionate about learning and appling new and demanded skills
 
 ## Skills: 
 - Java
+- NET
 - Python
 - React
 - Angular
