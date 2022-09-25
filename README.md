@@ -1,6 +1,7 @@
+![](https://github.com/MichelEChaghoury/MichelEChaghoury/blob/main/BG.jfif)
 # Michel Chaghoury
 
-## Software Engineer  
+## Software Engineer
 
 A motivated and passionate __software development and performance engineering specialist__ with years of 
 experience in the high-tech manufacturing and Internet industries. A collaborative developer and engineer with 
@@ -11,7 +12,7 @@ __Areas of functional expertise:__
 - Performance Engineering and Measurement
 - Technical Troubleshooting and Debugging
 - Teamwork and Cross functional Communication
-- Programming in Java, C#, Python, and SQL
+- Programming in _Java_, _C#_, _Python_, and _SQL_
 - Software and Engineering Documentation
 
 Passionate learner, Rigorous, flexible and organized.  
@@ -24,7 +25,7 @@ __Techinal Consultant__ at [Azentio Software](https://www.azentio.com)
 Development, Continuous Integration and Continuous Delivery
 - Contributes to and leverages the KLA surface inspection,defect review, apply patches, modifications and 
 updates. 
-- Manage data and analyze modules code base (primarily using Java, Python and SQL) used widely in the
+- Manage data and analyze modules code base (primarily using __Java__, __Python__ and __SQL__) used widely in the
 banking sector.
 - Converting requirements from clients like patches, updates, and modifications into APIs and Web Services
 that enable customized process controls whileproviding systems integration support for ~5 projects
