@@ -15,9 +15,6 @@ __Areas of functional expertise:__
 - Programming in _Java_, _C#_, _Python_, and _SQL_
 - Software and Engineering Documentation
 
-Passionate learner, Rigorous, flexible and organized.  
-Holder of a Master Degree in Computer & Communication Engineering from [Arts, Sciences & Technology University in Lebanon](https://aul.edu.lb) _(2022 - 2024)_
-
 ### Work Experience:  
 
 __Techinal Consultant__ at [Azentio Software](https://www.azentio.com)  
@@ -33,6 +30,10 @@ simultaneously.
 - Work within Scaled Agile Framework practices & collaborates crossfunctionally with clients, software and 
 hardware engineers during the development and integration project phases to troubleshoot and/or debug
 software stacks
+
+### Education:    
+Master Degree in Computer & Communication Engineering from [Arts, Sciences & Technology University in Lebanon](https://aul.edu.lb) _2022 - 2024_  
+Bachelor Degree in Computer & Communication Engineering from [Arts, Sciences & Technology University in Lebanon](https://aul.edu.lb) _20019 - 2022_  
 
 ### Core Competencies & Skills: 
 - Cultivate positive relationships with colleagues and team members through effective communication and 
