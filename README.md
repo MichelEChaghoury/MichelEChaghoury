@@ -1,45 +1,52 @@
 ![](https://github.com/MichelEChaghoury/MichelEChaghoury/blob/main/BG.jfif)
-# Michel Chaghoury
+# MICHEL CHAGHOURY
 
-## Software Engineer
+Dekwaneh Saint Elias Street, Lebanon | [LinkedIn](https://www.linkedin.com/in/mchaghoury/) | +961 76 521 793 | [michel.e.chaghoury@gmail.com](mailto:michel.e.chaghoury@gmail.com)
 
-A motivated and passionate __software development and performance engineering specialist__ with years of 
-experience in the high-tech manufacturing and Internet industries. A collaborative developer and engineer with 
-experience and education in the hardware and software sides of technology who thrives on discovery and 
-accelerating performance.
+## WORK EXPERIENCE
 
-__Areas of functional expertise:__  
-- Performance Engineering and Measurement
-- Technical Troubleshooting and Debugging
-- Teamwork and Cross functional Communication
-- Programming in _Java_, _C#_, _Python_, and _SQL_
-- Software and Engineering Documentation
+## Azentio Software Mkalles, Mont Lebanon
 
-### Work Experience:  
+### Technical Consultant _May 2022 – Present_
 
-__Techinal Consultant__ at [Azentio Software](https://www.azentio.com)  
-- Enhance product quality by detecting bugs at an early stage, and an advocate of automation, Test Driven 
-Development, Continuous Integration and Continuous Delivery
-- Contributes to and leverages the KLA surface inspection,defect review, apply patches, modifications and 
-updates. 
-- Manage data and analyze modules code base (primarily using __Java__, __Python__ and __SQL__) used widely in the
-banking sector.
-- Converting requirements from clients like patches, updates, and modifications into APIs and Web Services
-that enable customized process controls whileproviding systems integration support for ~5 projects
-simultaneously.
-- Work within Scaled Agile Framework practices & collaborates crossfunctionally with clients, software and 
-hardware engineers during the development and integration project phases to troubleshoot and/or debug
-software stacks
+- Enhance product quality by detecting bugs at an early stage, Collaborate within a team and with product management/architecture teams to deliver high quality features
+- Work within Scaled Agile Framework practices and collaborates cross functionally with clients, software and hardware engineers during the development and integration project phases
+- Contributes to and leverages the Key Learning Area surface inspection, defect review, apply patches, modifications and updates, keep clients up to date with latest updates and changes
+- Manage data, inspects databases and analyze scripts, modules code base primarily using Java, C++, Python, Oracle PL/SQL, and SQL used widely in the banking sector
+- Translate requirements from clients, patches, updates & modifications into APIs and Web Services to customize processes while providing systems integration support for ~7 projects simultaneously
 
-### Education:    
-Master Degree in Computer & Communication Engineering from [Arts, Sciences & Technology University in Lebanon](https://aul.edu.lb) _2022 - 2024_  
-Bachelor Degree in Computer & Communication Engineering from [Arts, Sciences & Technology University in Lebanon](https://aul.edu.lb) _20019 - 2022_  
+## Digital Bound Beirut, Lebanon
 
-### Core Competencies & Skills: 
-- Cultivate positive relationships with colleagues and team members through effective communication and 
-action oriented solutions.
-- Excellent knowledge of Software & tools (Visual Studio Code, Eclipse, IntelliJ, Git & GitHub, PLSQL).
-- Good understanding in Project Management Life Cycle and methodologies (Agile, Waterfall, scrum).
-- Proficiency in design patterns, API design, data structures & algorithms, object oriented programing.
-- Strong desire to learn and improve relentlessly and enthusiast for learning new software development
-technologies.
+### Web Developer _November 2021 – April 2022_
+
+- Continuously learn and improve computer skills while being involved in system design, code reviews, and programming using JavaScript, TypeScript, NodeJS, and React
+- Interfaced and attended daily meetus with teams continuously to develop new plans and strategies
+- Improve user interface, user experience by implementing responsive web design approaches, increase performance by ~25% of high traffic web applications
+- Integrate external services and cloud technologies (Amazon Web Services, Google Firebase)
+- Study functional specifications and translate business requirements, processes and workflows into technical aspect, code, script, and features
+
+## EDUCATION
+
+### Master in Computer & Communication Engineering
+
+Arts, Sciences and Technology University in Lebanon _2022 - 2024_
+
+### Bachelor in Computer & Communication Engineering
+
+Arts, Sciences and Technology University in Lebanon _2019 - 2022_
+
+## SKILLS & INTERESTS
+
+**Skills**: Microsoft Office (Excel, PowerPoint, Word),Spring Boot, Self-Motivated, SQL, Java, C++,
+Python, Object Oriented Programming, Teamwork, Analytical Thinking, Git & GitHub
+
+**Interests**: Cloud Technologies (Azure, AWS, GCP),Development, DevOps, Continuous Integration,
+Continuous Delivery, API & Microservices, Containerization (Docker, Kubernetes), Databases
+
+## LANGUAGES
+
+**English:** _Native or bilingual proficiency_
+
+**French:** _Professional working proficiency_
+
+**Arabic:** _Native or bilingual proficiency_
