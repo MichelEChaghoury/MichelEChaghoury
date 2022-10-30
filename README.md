@@ -5,9 +5,9 @@ Dekwaneh Saint Elias Street, Lebanon | [LinkedIn](https://www.linkedin.com/in/mc
 
 ## WORK EXPERIENCE
 
-## Azentio Software Mkalles, Mont Lebanon
+## Azentio Software
 
-### Technical Consultant _May 2022 – Present_
+### Technical Consultant
 
 - Enhance product quality by detecting bugs at an early stage, Collaborate within a team and with product management/architecture teams to deliver high quality features
 - Work within Scaled Agile Framework practices and collaborates cross functionally with clients, software and hardware engineers during the development and integration project phases
@@ -15,9 +15,9 @@ Dekwaneh Saint Elias Street, Lebanon | [LinkedIn](https://www.linkedin.com/in/mc
 - Manage data, inspects databases and analyze scripts, modules code base primarily using Java, C++, Python, Oracle PL/SQL, and SQL used widely in the banking sector
 - Translate requirements from clients, patches, updates & modifications into APIs and Web Services to customize processes while providing systems integration support for ~7 projects simultaneously
 
-## Digital Bound Beirut, Lebanon
+## Digital Bound
 
-### Web Developer _November 2021 – April 2022_
+### Web Developer
 
 - Continuously learn and improve computer skills while being involved in system design, code reviews, and programming using JavaScript, TypeScript, NodeJS, and React
 - Interfaced and attended daily meetus with teams continuously to develop new plans and strategies
@@ -29,11 +29,11 @@ Dekwaneh Saint Elias Street, Lebanon | [LinkedIn](https://www.linkedin.com/in/mc
 
 ### Master in Computer & Communication Engineering
 
-Arts, Sciences and Technology University in Lebanon _2022 - 2024_
+Arts, Sciences and Technology University in Lebanon
 
 ### Bachelor in Computer & Communication Engineering
 
-Arts, Sciences and Technology University in Lebanon _2019 - 2022_
+Arts, Sciences and Technology University in Lebanon
 
 ## SKILLS & INTERESTS
 
