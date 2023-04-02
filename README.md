@@ -1,13 +1,13 @@
 ![](https://github.com/MichelEChaghoury/MichelEChaghoury/blob/main/BG.jfif)
 # MICHEL CHAGHOURY
 
-Dekwaneh Saint Elias Street, Lebanon | [LinkedIn](https://www.linkedin.com/in/mchaghoury/) | +961 76 521 793 | [michel.e.chaghoury@gmail.com](mailto:michel.e.chaghoury@gmail.com)
+Dekwaneh - Lebanon | [LinkedIn](https://www.linkedin.com/in/mchaghoury/) | +961 76 521 793 | [michel.e.chaghoury@gmail.com](mailto:michel.e.chaghoury@gmail.com)
 
 ## WORK EXPERIENCE
 
 ## Azentio Software
 
-### Technical Consultant
+### Technical Consultant & Support Specialist
 
 - Enhance product quality by detecting bugs at an early stage, Collaborate within a team and with product management/architecture teams to deliver high quality features
 - Work within Scaled Agile Framework practices and collaborates cross functionally with clients, software and hardware engineers during the development and integration project phases
@@ -17,7 +17,7 @@ Dekwaneh Saint Elias Street, Lebanon | [LinkedIn](https://www.linkedin.com/in/mc
 
 ## Digital Bound
 
-### Web Developer
+### Full-Stack Web Developer
 
 - Continuously learn and improve computer skills while being involved in system design, code reviews, and programming using JavaScript, TypeScript, NodeJS, and React
 - Interfaced and attended daily meetus with teams continuously to develop new plans and strategies
@@ -27,13 +27,11 @@ Dekwaneh Saint Elias Street, Lebanon | [LinkedIn](https://www.linkedin.com/in/mc
 
 ## EDUCATION
 
-### Master in Computer & Communication Engineering
+### Master Degree in Computer & Communication Engineering
+_Arts, Sciences and Technology University in Lebanon_
 
-Arts, Sciences and Technology University in Lebanon
-
-### Bachelor in Computer & Communication Engineering
-
-Arts, Sciences and Technology University in Lebanon
+### Bachelor Degree in Computer & Communication Engineering
+_Arts, Sciences and Technology University in Lebanon_
 
 ## SKILLS & INTERESTS
 
